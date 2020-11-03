@@ -13,7 +13,7 @@
   <div class="rectangle"></div>
   
   <p1>
-    <a href="/meat/style.css">Item List</a>
+    <a href="https://github.com/3c2ba1/Wynncraft-Item-List/html.html">Item List</a>
   </p1>
   
   
