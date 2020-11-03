@@ -9,10 +9,14 @@ body {
   background-color: green;
   border-style: none;
   position: relative;
-  z-index: 3;
+  z-index: 1;
 }
 
 div {
+  z-index: 2;
+}
+
+a {
   z-index: 2;
 }
 
