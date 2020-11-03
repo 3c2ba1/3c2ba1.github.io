@@ -10,10 +10,10 @@
     <p style="text-align: center;"><strong>Have fun.</strong></p>
   </h1>
   
-  < class="rectangle"></div>
+  <div class="rectangle"></div>
   
   <p1>
-    <a href=" ">Item List</a>
+    <a href="/meat/style.css">Item List</a>
   </p1>
   
   
