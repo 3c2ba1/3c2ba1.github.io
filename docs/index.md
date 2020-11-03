@@ -2,7 +2,7 @@
 <html>
 <body>    
     
-    <link rel="stylesheet" type="text/css" href=
+    <link rel="stylesheet" type="text/css" href="/style.css">
 
   <div>
     <p style="text-align: center;"></p>
