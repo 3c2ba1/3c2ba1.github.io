@@ -21,6 +21,7 @@ div2 {
 	height: 100ph;
 	width: 100ph;
 	z-index: 2;
+	position: absolute;
 }
 
 p {
