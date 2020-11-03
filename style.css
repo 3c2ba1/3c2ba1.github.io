@@ -1,5 +1,42 @@
 body {
 	background-color: #83c73c;
+	height: 100vh;
+	width: 100vw;
+	position: relative;
+}
+
+.rectangle {
+	background-color: #83c73c;
+	border-style: none;
+	z-index: 1;
+}
+
+div {
+	top: 50%;
+	left: 50%;
+	margin-left: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+    	margin-right: -50%;
+    	transform: translate(-50%, -50%);
+	height: 100%;
+	width: 100%;
+	z-index: 2;
+}
+
+div2 {
+	top: 50%;
+	left: 50%;
+	margin-left: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+    	margin-right: -50%;
+    	transform: translate(-50%, -50%);
+	position: absolute;
+	z-index: 2;
+}
+
+div3 {
 	top: 50%;
 	left: 50%;
 	margin-left: 0;
@@ -7,36 +44,27 @@ body {
 	margin-bottom: 0;
     	margin-right: -50%;
     	transform: translate(-50%, -150%);
-	height: 100vh;
-	width: 100vw;
-	position: relative;
-}
-
-.rectangle {
-	margin: none;
-	height: 100%;
-	width: 100%;
-	top: 0;
-	left: 0;
-	background-color: #83c73c;
-	border-style: none;
 	position: absolute;
-	z-index: 1;
-}
-
-div {
 	z-index: 2;
 }
 
-div2 {
+div4 {
+	top: 50%;
+	left: 50%;
+	margin-left: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+    	margin-right: -50%;
+    	transform: translate(-50%, -100%);
 	position: absolute;
-	height: 100%;
-	width: 100%;
+	z-index: 2;
+}
+
+h1 {
 	z-index: 2;
 }
 
 p {
-	margin: none;
 	font-size: 600%;
 	z-index: 2;
 }
