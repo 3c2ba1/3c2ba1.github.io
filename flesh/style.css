@@ -1,3 +1,11 @@
 body {
   background-color: green;
 }
+.rectangle {
+  height: 100vh;
+  width: 100vh;
+  background-color: green;
+  border-style: none;
+  position: relative;
+  z-index: 1;
+}
