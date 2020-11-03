@@ -9,4 +9,6 @@
     <h1 style="text-align: center;"><strong>This is a list of all of the items in Wynncraft.</strong></h1>
     <p style="text-align: center;"><strong>Have fun.</strong></p>
   </div>
+  
+  <div class="rectangle"></div>
 </body>
