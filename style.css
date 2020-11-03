@@ -3,6 +3,7 @@ body {
 }
 
 .rectangle {
+	margin: none;
 	height: 100vh;
 	width: 100vw;
 	top: 0;
@@ -21,6 +22,9 @@ div2 {
 	position: absolute;
     	top: 50%;
 	left: 50%;
+	margin-left: 0;
+	margin-top: 0;
+	margin-bottom: 0;
     	margin-right: -50%;
     	transform: translate(-50%, -50%);
 	height: 100%;
@@ -29,10 +33,12 @@ div2 {
 }
 
 p {
+	margin: none;
 	font-size: 600%;
 }
 
 p1 {
+	margin: none;
 	text-align: center;
 	vertical-align: middle;
 	font-size: 400%;
