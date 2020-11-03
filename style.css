@@ -1,11 +1,20 @@
 body {
 	background-color: #83c73c;
+	top: 50%;
+	left: 50%;
+	margin-left: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+    	margin-right: -50%;
+    	transform: translate(-50%, -50%);
+	height: 100vh;
+	width: 100vw;
 }
 
 .rectangle {
 	margin: none;
-	height: 100vh;
-	width: 100vw;
+	height: 100%;
+	width: 100%;
 	top: 0;
 	left: 0;
 	background-color: #83c73c;
@@ -20,13 +29,6 @@ div {
 
 div2 {
 	position: absolute;
-    	top: 50%;
-	left: 50%;
-	margin-left: 0;
-	margin-top: 0;
-	margin-bottom: 0;
-    	margin-right: -50%;
-    	transform: translate(-50%, -50%);
 	height: 100%;
 	width: 100%;
 	z-index: 2;
