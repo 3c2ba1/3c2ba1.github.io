@@ -23,8 +23,8 @@ p {
 }
 
 p1 {
-  display: block;
-  text-align: center;
+  	display: block;
+  	text-align: center;
 	margin: none;
 	font-size: 400%;
 	z-index: 2;
